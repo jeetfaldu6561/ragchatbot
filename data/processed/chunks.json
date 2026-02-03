@@ -1,5 +1,1485 @@
 [
   {
+    "text": "2026 C6001 MIT – SEP 2025 Source: Monash University 2026 Handbook - CRICOS Provider Number: 00008C While the information provided here was correct at the time of viewing and/or printing, you should carefully read all official correspondence and other sources of information for students to stay informed about any changes. Consult with the relevant faculty officers if in doubt when planning your course",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 0,
+      "total_chunks": 19,
+      "char_count": 403,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": ". Consult with the relevant faculty officers if in doubt when planning your course. Some units described may change or may not be offered due to insufficient enrolments or changes to teaching personnel",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 1,
+      "total_chunks": 19,
+      "char_count": 201,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": ". Master of Information Technology (C6001) – 2026 Industry experience stream – March intake Year 1 First Semester FIT9131 Programming foundations in Java FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks Second Semester FIT5057 Project management FIT5125 IT research and innovation methods FIT5136 Software engineering FIT5137 Advanced database technology Year 2 First Semester FIT5046 Mobile and distributed",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 2,
+      "total_chunks": 19,
+      "char_count": 494,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": "FIT5137 Advanced database technology Year 2 First Semester FIT5046 Mobile and distributed computing systems FIT5152 User interface design and usability OR FIT5171 System validation and verification OR FIT5225 Cloud computing and security Level 5 Elective Level 5 FIT Elective Second Semester FIT5120 Industry experience project (12 points) FIT5122 IT professional practice FIT5032 Internet applications development Research stream** – March intake Year 1 First Semester FIT9131 Programming",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 3,
+      "total_chunks": 19,
+      "char_count": 489,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": "applications development Research stream** – March intake Year 1 First Semester FIT9131 Programming foundations in Java FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks Second Semester FIT5057 Project management FIT5125 IT research and innovation methods FIT5136 Software engineering FIT5137 Advanced database technology Year 2 First Semester FIT5126 Masters thesis part 1 FIT5046 Mobile and distributed",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 4,
+      "total_chunks": 19,
+      "char_count": 490,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": "technology Year 2 First Semester FIT5126 Masters thesis part 1 FIT5046 Mobile and distributed computing systems FIT5152 User interface design and usability OR FIT5171 System validation and verification OR FIT5225 Cloud computing and security Level 5 Elective Second Semester FIT5127 Masters thesis part 2 FIT5128 Masters thesis final FIT5122 IT professional practice FIT5032 Internet applications development ** Research stream requirements ● To be eligible for the research stream, students must",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 5,
+      "total_chunks": 19,
+      "char_count": 496,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": "development ** Research stream requirements ● To be eligible for the research stream, students must have successfully completed 24 points of level five (non-foundation) FIT units and have: o achieved an overall average of at least 80% across all level 5 units o achieved at least 75% in FIT5125 IT research and innovation methods, and o achieved an overall course average of 70%",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 6,
+      "total_chunks": 19,
+      "char_count": 378,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": ". ● Entry to the research stream is by application only. Check the link below for application deadlines. Students will be notified when applications open for each intake",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 7,
+      "total_chunks": 19,
+      "char_count": 169,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": ". ● Research stream information and application: https://www.monash.edu/it/current-students/enrolment/honours-and-minor-thesis FOUNDATION CORE MASTER’S STUDIES ADVANCED PRACTICE 2026 C6001 MIT – SEP 2025 Source: Monash University 2026 Handbook - CRICOS Provider Number: 00008C While the information provided here was correct at the time of viewing and/or printing, you should carefully read all official correspondence and other sources of information for students to stay informed about any changes",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 8,
+      "total_chunks": 19,
+      "char_count": 499,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": ". Consult with the relevant faculty officers if in doubt when planning your course. Some units described may change or may not be offered due to insufficient enrolments or changes to teaching personnel",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 9,
+      "total_chunks": 19,
+      "char_count": 201,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": ". Industry experience stream – July intake Year 1 Second Semester FIT9131 Programming foundations in Java FIT9132 Introduction to databases FIT913 Introduction to Python programming FIT9137 Introduction to computer architecture and networks First Semester FIT5057 Project management FIT5125 IT research and innovation methods FIT5136 Software engineering Level 5 Elective Year 2 Second Semester FIT5032 Internet applications development FIT5137 Advanced database technology FIT5152 User interface",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 10,
+      "total_chunks": 19,
+      "char_count": 496,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": "Internet applications development FIT5137 Advanced database technology FIT5152 User interface design and usability OR FIT5171 System validation and verification OR FIT522 Cloud computing and security Level 5 FIT Elective First Semester FIT5120 Industry experience project (12 points) FIT5122 IT professional practice FIT5046 Mobile and distributed computing systems Research stream** – July intake Year 1 Second Semester FIT9131 Programming foundations in Java FIT9132 Introduction to databases",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 11,
+      "total_chunks": 19,
+      "char_count": 494,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": "Year 1 Second Semester FIT9131 Programming foundations in Java FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks First Semester FIT5057 Project management FIT5125 IT research and innovation methods FIT5136 Software engineering Level 5 Elective Year 2 Second Semester FIT5126 Masters thesis part 1 FIT5032 Internet applications development FIT5137 Advanced database technology FIT5152 User interface design and",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 12,
+      "total_chunks": 19,
+      "char_count": 495,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": "applications development FIT5137 Advanced database technology FIT5152 User interface design and usability OR FIT5171 System validation and verification OR FIT5225 Cloud computing and security First Semester FIT5127 Masters thesis part 2 FIT5128 Masters thesis final FIT5122 IT professional practice FIT5046 Mobile and distributed computing systems ** Research stream requirements ● To be eligible for the research stream, students must have successfully completed 24 points of level five",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 13,
+      "total_chunks": 19,
+      "char_count": 487,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": "eligible for the research stream, students must have successfully completed 24 points of level five (non-foundation) FIT units and have: o achieved an overall average of at least 80% across all level 5 units o achieved at least 75% in FIT5125 IT research and innovation methods, and o achieved an overall course average of 70%",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 14,
+      "total_chunks": 19,
+      "char_count": 326,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": ". ● Entry to the research stream is by application only. Check the link below for application deadlines. Students will be notified when applications open for each intake",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 15,
+      "total_chunks": 19,
+      "char_count": 169,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": ". Students will be notified when applications open for each intake. ● Research stream information and application: https://www.monash.edu/it/current-students/enrolment/honours-and-minor-thesis Notes Credit points Unless specified, all units are worth 6 credit points Master of Information Technology: 16 units x 6cp = Total of 96 credit points Year Level Requirements 1) A maximum of 24 points of level 9 (foundation) units will be counted; 2) At least 72 points must be completed at level 5",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 16,
+      "total_chunks": 19,
+      "char_count": 491,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": ". Unit requisites All pre-requisite and co-requisite requirements must be undertaken in order to be able to enrol into a specific unit Duration of degree 2 years full-time, 4 years part-time Time limit Time limit = 6 years. Students have six years in which to complete this award from the time they commence. Periods of intermission are counted as part of the six years",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 17,
+      "total_chunks": 19,
+      "char_count": 369,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": ". Periods of intermission are counted as part of the six years. Monash University handbook Students should follow the course requirements for the year the course was commenced https://handbook.monash.edu/browse/By%20Faculty/FacultyofInformationTechnology",
+    "metadata": {
+      "source": "2026-C6001-MIT.pdf",
+      "chunk_index": 18,
+      "total_chunks": 19,
+      "char_count": 254,
+      "source_char_count": 6428
+    }
+  },
+  {
+    "text": "2026 C6002 MCyber - SEP 2025 Source: Monash University 2026 Handbook - CRICOS Provider Number: 00008C While the information provided here was correct at the time of viewing and/or printing, you should carefully read all official correspondence and other sources of information for students to stay informed about any changes. Consult with the relevant faculty officers if in doubt when planning your course",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 0,
+      "total_chunks": 20,
+      "char_count": 406,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": ". Consult with the relevant faculty officers if in doubt when planning your course. Some units described may change or may not be offered due to insufficient enrolments or changes to teaching personnel",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 1,
+      "total_chunks": 20,
+      "char_count": 201,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": ". Master of Cybersecurity (C6002) – 2026 Industry experience stream – March intake Year 1 First Semester FIT9138 Information systems analysis, design and systems thinking FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks Second Semester FIT5003 Software security FIT5057 Project management FIT5125 IT research and innovation methods FIT5163 Introduction to cryptography for cybersecurity Year 2 First Semester",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 2,
+      "total_chunks": 20,
+      "char_count": 495,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": "and innovation methods FIT5163 Introduction to cryptography for cybersecurity Year 2 First Semester FIT5129 Cyber operations FIT5124 Emerging topics for cybersecurity in practice OR FIT5223 IT forensics OR FIT5225 Cloud computing and security Level 5 Elective Level 5 FIT Elective Second Semester FIT5120 Industry experience project (12 points) FIT5122 IT professional practice FIT5037 Network security Research stream** - March intake Year 1 First Semester FIT9138 Information systems analysis,",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 3,
+      "total_chunks": 20,
+      "char_count": 495,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": "Research stream** - March intake Year 1 First Semester FIT9138 Information systems analysis, design and systems thinking FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks Second Semester FIT5003 Software security FIT5057 Project management FIT5125 IT research and innovation methods FIT5163 Introduction to cryptography for cybersecurity Year 2 First Semester FIT5126 Masters thesis part 1 FIT5129 Cyber",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 4,
+      "total_chunks": 20,
+      "char_count": 489,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": "to cryptography for cybersecurity Year 2 First Semester FIT5126 Masters thesis part 1 FIT5129 Cyber operations FIT5124 Emerging topics for cybersecurity in practice OR FIT5223 IT forensics OR FIT5225 Cloud computing and security Level 5 Elective Second Semester FIT5127 Masters thesis part 2 FIT5128 Masters thesis final FIT5122 IT professional practice FIT5037 Network security ** Research stream requirements ● To be eligible for the research stream, students must have successfully completed 24",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 5,
+      "total_chunks": 20,
+      "char_count": 497,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": "requirements ● To be eligible for the research stream, students must have successfully completed 24 points of level five (non-foundation) FIT units and have: o achieved an overall average of at least 80% across all level 5 units o achieved at least 75% in FIT5125 IT research and innovation methods, and o achieved an overall course average of 70%",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 6,
+      "total_chunks": 20,
+      "char_count": 347,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": ". ● Entry to the research stream is by applications only. Check the link below for application deadlines. Students will be notified when applications open for each intake",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 7,
+      "total_chunks": 20,
+      "char_count": 170,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": ". ● Research stream information and application: https://www.monash.edu/it/current-students/enrolment/honours-and-minor-thesis FOUNDATION CORE MASTER’S STUDIES ADVANCED PRACTICE 2026 C6002 MCyber - SEP 2025 Source: Monash University 2026 Handbook - CRICOS Provider Number: 00008C While the information provided here was correct at the time of viewing and/or printing, you should carefully read all official correspondence and other sources of information for students to stay informed about any",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 8,
+      "total_chunks": 20,
+      "char_count": 494,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": "official correspondence and other sources of information for students to stay informed about any changes",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 9,
+      "total_chunks": 20,
+      "char_count": 104,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": ". Consult with the relevant faculty officers if in doubt when planning your course. Some units described may change or may not be offered due to insufficient enrolments or changes to teaching personnel",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 10,
+      "total_chunks": 20,
+      "char_count": 201,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": ". Industry experience stream - July intake Year 1 Second Semester FIT9138 Information systems analysis, design and systems thinking FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks First Semester FIT5057 Project management FIT5129 Cyber operations FIT5125 IT research methods FIT5163 Introduction to cryptography for cybersecurity Year 2 Second Semester FIT5003 Software security FIT5037 Network security FIT5124",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 11,
+      "total_chunks": 20,
+      "char_count": 499,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": "for cybersecurity Year 2 Second Semester FIT5003 Software security FIT5037 Network security FIT5124 Emerging topics for cybersecurity in practice OR FIT5223 IT forensics OR FIT5225 Cloud computing and security Level 5 Elective First Semester FIT5120 Industry experience project (12 points) FIT5122 IT professional practice Level 5 FIT Elective Research stream** - July intake Year 1 Second Semester FIT9138 Information systems analysis, design and systems thinking FIT9132 Introduction to databases",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 12,
+      "total_chunks": 20,
+      "char_count": 498,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": "FIT9138 Information systems analysis, design and systems thinking FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks First Semester FIT5057 Project management FIT5125 IT research and innovation methods FIT5129 Cyber operations FIT5163 Introduction to cryptography for cybersecurity Year 2 Second Semester FIT5126 Masters thesis part 1 FIT5003 Software security FIT5124 Emerging topics for cybersecurity in practice",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 13,
+      "total_chunks": 20,
+      "char_count": 499,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": "thesis part 1 FIT5003 Software security FIT5124 Emerging topics for cybersecurity in practice OR FIT5223 IT forensics OR FIT5225 Cloud computing and security FIT5037 Network security First Semester FIT5127 Masters thesis part 2 FIT5128 Masters thesis final FIT5122 IT professional practice Level 5 Elective ** Research stream requirements ● To be eligible for the research stream, students must have successfully completed 24 points of level five (non-foundation) FIT units and have: o achieved an",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 14,
+      "total_chunks": 20,
+      "char_count": 497,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": "successfully completed 24 points of level five (non-foundation) FIT units and have: o achieved an overall average of at least 80% across all level 5 units o achieved at least 75% in FIT5125 IT research and innovation methods, and o achieved an overall course average of 70%",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 15,
+      "total_chunks": 20,
+      "char_count": 273,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": ". ● Entry to the research stream is by applications only. Check the link below for application deadlines. Students will be notified when applications open for each intake",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 16,
+      "total_chunks": 20,
+      "char_count": 170,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": ". Students will be notified when applications open for each intake. Research stream information and application: https://www.monash.edu/it/current-students/enrolment/honours-and-minor-thesis Notes Credit points Unless specified, all units are worth 6 credit points Master of Cybersecurity: 16 units x 6cp = Total of 96 credit points Year Level Requirements 1) A maximum of 24 points of level 9 (foundation) units will be counted; 2) At least 72 points must be completed at level 5",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 17,
+      "total_chunks": 20,
+      "char_count": 480,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": ". Unit requisites All pre-requisite and co-requisite requirements must be undertaken in order to be able to enrol into a specific unit Duration of degree 2 years full-time, 4 years part-time Time limit Time limit = 6 years. Students have six years in which to complete this award from the time they commence. Periods of intermission are counted as part of the six years",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 18,
+      "total_chunks": 20,
+      "char_count": 369,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": ". Periods of intermission are counted as part of the six years. Monash University handbook Students should follow the course requirements for the year the course was commenced https://handbook.monash.edu/browse/By%20Faculty/FacultyofInformationTechnology",
+    "metadata": {
+      "source": "2026-C6002-MCyber.pdf",
+      "chunk_index": 19,
+      "total_chunks": 20,
+      "char_count": 254,
+      "source_char_count": 6355
+    }
+  },
+  {
+    "text": "2026 C6004 MDS – SEP 2025 Source: Monash University 2026 Handbook - CRICOS Provider Number: 00008C While the information provided here was correct at the time of viewing and/or printing, you should carefully read all official correspondence and other sources of information for students to stay informed about any changes. Consult with the relevant faculty officers if in doubt when planning your course",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 0,
+      "total_chunks": 19,
+      "char_count": 403,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": ". Consult with the relevant faculty officers if in doubt when planning your course. Some units described may change or may not be offered due to insufficient enrolments or changes to teaching personnel",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 1,
+      "total_chunks": 19,
+      "char_count": 201,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": ". Master of Data Science (C6004) – 2026 Industry experience stream Year 1 First semester FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks MAT9004 Mathematical foundations for data science and AI Second Semester FIT5145 Introduction to data science FIT5125 IT research and innovation methods FIT5057 Project management FIT5197 Statistical data modelling Year 2 First Semester FIT5147 Data exploration and",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 2,
+      "total_chunks": 19,
+      "char_count": 490,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": "management FIT5197 Statistical data modelling Year 2 First Semester FIT5147 Data exploration and visualisation FIT5196 Data wrangling FIT5202 Data processing for big data Data Science elective unit* Second Semester FIT5120 Industry experience project (12 points) FIT5122 IT professional practice Level 5 Elective Research stream** Year 1 First Semester FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks MAT9004",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 3,
+      "total_chunks": 19,
+      "char_count": 496,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": "to Python programming FIT9137 Introduction to computer architecture and networks MAT9004 Mathematical foundations for data science and AI Second Semester FIT5145 Introduction to data science FIT5125 IT research and innovation methods FIT5057 Project management FIT5197 Statistical data modelling Year 2 First Semester FIT5126 Masters thesis part 1 FIT5147 Data exploration and visualisation FIT5196 Data wrangling FIT5202 Data processing for big data Second Semester FIT5127 Masters thesis part 2",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 4,
+      "total_chunks": 19,
+      "char_count": 496,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": "Data wrangling FIT5202 Data processing for big data Second Semester FIT5127 Masters thesis part 2 FIT5128 Masters thesis final FIT5122 IT professional practice Data Science elective unit* *Data Science core units (choose 1): FIT5149 Applied data analysis [FIT5197] FIT5201 Machine learning [FIT5145 & MAT9004] FIT5212 Data analysis for semi-structured data [FIT5197] FIT5230 Malicious AI [FIT9136] BMS5021 Introduction to bioinformatics ** Research stream requirements: ● To be eligible for the",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 5,
+      "total_chunks": 19,
+      "char_count": 494,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": "BMS5021 Introduction to bioinformatics ** Research stream requirements: ● To be eligible for the research stream, students must have successfully completed 24 points of level five (non-foundation) FIT units and have: o achieved an overall average of at least 80% across all level 5 units o achieved at least 75% in FIT5125 IT research and innovation methods, and o achieved an overall course average of 70%",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 6,
+      "total_chunks": 19,
+      "char_count": 406,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": ". ● Entry to the research stream is by application only. Check the link below for application deadlines. Students will be notified when applications open for each intake",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 7,
+      "total_chunks": 19,
+      "char_count": 169,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": ". ● Research stream information and application: https://www.monash.edu/it/current-students/enrolment/honours-and-minor-thesis FOUNDATION CORE MASTER’S STUDIES ADVANCED PRACTICE 2026 C6004 MDS – SEP 2025 Source: Monash University 2026 Handbook - CRICOS Provider Number: 00008C While the information provided here was correct at the time of viewing and/or printing, you should carefully read all official correspondence and other sources of information for students to stay informed about any changes",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 8,
+      "total_chunks": 19,
+      "char_count": 499,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": ". Consult with the relevant faculty officers if in doubt when planning your course. Some units described may change or may not be offered due to insufficient enrolments or changes to teaching personnel",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 9,
+      "total_chunks": 19,
+      "char_count": 201,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": ". Industry experience stream – July intake Year 1 Second Semester FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks MAT9004 Mathematical foundations for data science and AI First Semester FIT5145 Introduction to data science FIT5125 IT research and innovation methods FIT5057 Project management FIT5197 Statistical data modelling Year 2 Second Semester FIT5147 Data exploration and visualisation FIT5196 Data",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 10,
+      "total_chunks": 19,
+      "char_count": 494,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": "data modelling Year 2 Second Semester FIT5147 Data exploration and visualisation FIT5196 Data wrangling FIT5202 Data processing for big data Data Science elective unit* First Semester FIT5120 Industry experience project (12 points FIT5122 IT professional practice Level 5 Elective Research stream** – July intake Year 1 Second Semester FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks MAT9004 Mathematical",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 11,
+      "total_chunks": 19,
+      "char_count": 492,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": "Python programming FIT9137 Introduction to computer architecture and networks MAT9004 Mathematical foundations for data science and AI First Semester FIT5145 Introduction to data science FIT5125 IT research and innovation methods FIT5057 Project management FIT5197 Statistical data modelling Year 2 Second Semester FIT5126 Masters thesis part 1 FIT5147 Data exploration and visualisation FIT5196 Data wrangling FIT5202 Data processing for big data First Semester FIT5127 Masters thesis part 2",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 12,
+      "total_chunks": 19,
+      "char_count": 492,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": "Data wrangling FIT5202 Data processing for big data First Semester FIT5127 Masters thesis part 2 FIT5128 Masters thesis final FIT5122 IT professional practice Data Science elective unit* ** Research stream requirements: ● To be eligible for the research stream, students must have successfully completed 24 points of level five (non-foundation) FIT units and have: o achieved an overall average of at least 80% across all level 5 units o achieved at least 75% in FIT5125 IT research and innovation",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 13,
+      "total_chunks": 19,
+      "char_count": 497,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": "at least 80% across all level 5 units o achieved at least 75% in FIT5125 IT research and innovation methods, and o achieved an overall course average of 70%",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 14,
+      "total_chunks": 19,
+      "char_count": 156,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": ". ● Entry to the research stream is by application only. Check the link below for application deadlines. Students will be notified when applications open for each intake",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 15,
+      "total_chunks": 19,
+      "char_count": 169,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": ". Students will be notified when applications open for each intake. Research stream information and application: https://www.monash.edu/it/current-students/enrolment/honours-and-minor-thesis Notes Credit points Unless specified, all units are worth 6 credit points Master of Data Science 16 units x 6cp = Total of 96 credit points Year Level Requirements 1) A maximum of 24 points of level 9 (foundation) units will be counted; 2) At least 72 points must be completed at level 5",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 16,
+      "total_chunks": 19,
+      "char_count": 478,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": ". Unit requisites All pre-requisite and co-requisite requirements must be undertaken to be able to enrol into a specific unit Duration of degree 2 years full-time, 4 years part-time Time limit Time limit = 6 years. Students have six years in which to complete this award from the time they commence. Periods of intermission are counted as part of the six years",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 17,
+      "total_chunks": 19,
+      "char_count": 360,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": ". Periods of intermission are counted as part of the six years. Monash University handbook Students should follow the course requirements for the year the course was commenced https://handbook.monash.edu/browse/By%20Faculty/FacultyofInformationTechnology",
+    "metadata": {
+      "source": "2026-C6004-MDS.pdf",
+      "chunk_index": 18,
+      "total_chunks": 19,
+      "char_count": 254,
+      "source_char_count": 6274
+    }
+  },
+  {
+    "text": "2026 C6007 MAI - SEP 2026 Source: Monash University 2026 Handbook - CRICOS Provider Number: 00008C While the information provided here was correct at the time of viewing and/or printing, you should carefully read all official correspondence and other sources of information for students to stay informed about any changes. Consult with the relevant faculty officers if in doubt when planning your course",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 0,
+      "total_chunks": 19,
+      "char_count": 403,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": ". Consult with the relevant faculty officers if in doubt when planning your course. Some units described may change or may not be offered due to insufficient enrolments or changes to teaching personnel",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 1,
+      "total_chunks": 19,
+      "char_count": 201,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": ". Master of Artificial Intelligence C6007) – 2026 Industry experience stream – March intake Year 1 First Semester FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks MAT9004 Mathematical foundations for data science and AI Second Semester FIT5047 Fundamentals of artificial intelligence FIT5125 IT research and innovation methods FIT5215 Deep learning FIT5057 Project management Year 2 First Semester FIT5201 Machine",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 2,
+      "total_chunks": 19,
+      "char_count": 500,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": "methods FIT5215 Deep learning FIT5057 Project management Year 2 First Semester FIT5201 Machine learning FIT5226 Multi agent systems and collective behaviour FIT5217 Natural language processing OR FIT5221 Intelligent image and video analysis OR FIT5216 Modelling discrete optimisation problems Level 5 Elective Second Semester FIT5120 Industry experience project (12 points) FIT5122 IT professional practice FIT5222 Planning and automated reasoning Research stream – March intake Year 1 First",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 3,
+      "total_chunks": 19,
+      "char_count": 491,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": "practice FIT5222 Planning and automated reasoning Research stream – March intake Year 1 First Semester FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks MAT9004 Mathematical foundations for data science and AI Second Semester FIT5047 Fundamentals of artificial intelligence FIT5125 IT research and innovation methods FIT5215 Deep learning FIT5057 Project management Year 2 First Semester FIT5126 Masters thesis",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 4,
+      "total_chunks": 19,
+      "char_count": 496,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": "FIT5215 Deep learning FIT5057 Project management Year 2 First Semester FIT5126 Masters thesis part 1 FIT5201 Machine learning FIT5226 Multi agent systems and collective behaviour FIT5217 Natural language processing OR FIT5221 Intelligent image and video analysis OR FIT5216 Modelling discrete optimisation problems Second Semester FIT5127 Masters thesis part 2 FIT5128 Masters thesis final FIT5122 IT professional practice FIT5222 Planning and automated reasoning ** Research stream requirements ●",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 5,
+      "total_chunks": 19,
+      "char_count": 497,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": "IT professional practice FIT5222 Planning and automated reasoning ** Research stream requirements ● To be eligible for the research stream, students must have successfully completed 24 points of level five (non-foundation) FIT units and have: o achieved an overall average of at least 80% across all level 5 units o achieved at least 75% in FIT5125 IT research and innovation methods, and o achieved an overall course average of 70%",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 6,
+      "total_chunks": 19,
+      "char_count": 432,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": ". ● Entry to the research stream is by application only. Check the link below for application deadlines. Students will be notified when applications open for each intake",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 7,
+      "total_chunks": 19,
+      "char_count": 169,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": ". ● Research stream information and application: https://www.monash.edu/it/current-students/enrolment/honours-and-minor-thesis FOUNDATION CORE MASTER’S STUDIES ADVANCED PRACTICE 2026 C6007 MAI - SEP 2026 Source: Monash University 2026 Handbook - CRICOS Provider Number: 00008C While the information provided here was correct at the time of viewing and/or printing, you should carefully read all official correspondence and other sources of information for students to stay informed about any changes",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 8,
+      "total_chunks": 19,
+      "char_count": 499,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": ". Consult with the relevant faculty officers if in doubt when planning your course. Some units described may change or may not be offered due to insufficient enrolments or changes to teaching personnel",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 9,
+      "total_chunks": 19,
+      "char_count": 201,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": ". Industry experience stream – July intake Year 1 Second Semester FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks MAT9004 Mathematical foundations for data science and AI First Semester FIT5047 Fundamentals of artificial intelligence FIT5125 IT research and innovation methods FIT5226 Multi agent systems and collective behaviour FIT5057 Project management Year 2 Second Semester FIT5201 Machine learning FIT5215",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 10,
+      "total_chunks": 19,
+      "char_count": 500,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": "behaviour FIT5057 Project management Year 2 Second Semester FIT5201 Machine learning FIT5215 Deep learning FIT5222 Planning and automated reasoning FIT5217 Natural language processing OR FIT5221 Intelligent image and video analysis OR FIT5216 Modelling discrete optimisation problems First Semester FIT5120 Industry experience project (12 points) FIT5122 IT professional practice Level 5 Elective Research stream – July intake Year 2 Second Semester FIT9132 Introduction to databases FIT9136",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 11,
+      "total_chunks": 19,
+      "char_count": 491,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": "Research stream – July intake Year 2 Second Semester FIT9132 Introduction to databases FIT9136 Introduction to Python programming FIT9137 Introduction to computer architecture and networks MAT9004 Mathematical foundations for data science and AI First Semester FIT5047 Fundamentals of artificial intelligence FIT5125 IT research and innovation methods FIT5057 Project management FIT5226 Multi agent systems and collective behaviour Year 1 Second Semester FIT5126 Masters thesis part 1 FIT5201",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 12,
+      "total_chunks": 19,
+      "char_count": 492,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": "agent systems and collective behaviour Year 1 Second Semester FIT5126 Masters thesis part 1 FIT5201 Machine learning FIT5215 Deep learning FIT5222 Planning and automated reasoning First Semester FIT5127 Masters thesis part 2 FIT5128 Masters thesis final FIT5122 IT professional practice FIT5217 Natural language processing OR FIT5221 Intelligent image and video analysis OR FIT5216 Modelling discrete optimisation problems ** Research stream requirements ● To be eligible for the research stream,",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 13,
+      "total_chunks": 19,
+      "char_count": 496,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": "optimisation problems ** Research stream requirements ● To be eligible for the research stream, students must have successfully completed 24 points of level five (non-foundation) FIT units and have: o achieved an overall average of at least 80% across all level 5 units o achieved at least 75% in FIT5125 IT research and innovation methods, and o achieved an overall course average of 70%",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 14,
+      "total_chunks": 19,
+      "char_count": 388,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": ". ● Entry to the research stream is by application only. Check the link below for application deadlines. Students will be notified when applications open for each intake",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 15,
+      "total_chunks": 19,
+      "char_count": 169,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": ". Students will be notified when applications open for each intake. Research stream information and application: https://www.monash.edu/it/current-students/enrolment/honours-and-minor-thesis Notes Credit points Unless specified, all units are worth 6 credit points Master of Artificial Intelligence: 16 units x 6cp = Total of 96 credit points Year Level Requirements 1) A maximum of 24 points of level 9 (foundation) units will be counted; 2) At least 72 points must be completed at level 5",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 16,
+      "total_chunks": 19,
+      "char_count": 490,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": ". Unit requisites All pre-requisite and co-requisite requirements must be undertaken to be able to enrol into a specific unit Duration of degree 2 years full-time, 4 years part-time Time limit Time limit = 6 years. Students have six years in which to complete this award from the time they commence. Periods of intermission are counted as part of the six years",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 17,
+      "total_chunks": 19,
+      "char_count": 360,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": ". Periods of intermission are counted as part of the six years. Monash University handbook Students should follow the course requirements for the year the course was commenced https://handbook.monash.edu/browse/By%20Faculty/FacultyofInformationTechnology",
+    "metadata": {
+      "source": "2026-C6007-MAI.pdf",
+      "chunk_index": 18,
+      "total_chunks": 19,
+      "char_count": 254,
+      "source_char_count": 6560
+    }
+  },
+  {
+    "text": "Overview The Master of Artificial Intelligence prepares you for the AI transformation and professional employment across sectors in industry, academia, R&D, government, defence, medicine and finance. The degree provides you with modern knowledge and skills to effectively build AI-based products and intelligent systems. The course includes topics in deep learning, knowledge… For more content click the Read More button below",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 0,
+      "total_chunks": 24,
+      "char_count": 426,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". The Master of Artificial Intelligence prepares you for the AI transformation and professional employment across sectors in industry, academia, R&D, government, defence, medicine and finance. The degree provides you with modern knowledge and skills to effectively build AI-based products and intelligent systems",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 1,
+      "total_chunks": 24,
+      "char_count": 312,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". The course includes topics in deep learning, knowledge representation and reasoning, modern optimisation techniques, language understanding, roles of AI, its ethics and impact in organisation, society and the world. The course will contain a broad range of units related to fundamental knowledge and applied artificial intelligence skills",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 2,
+      "total_chunks": 24,
+      "char_count": 340,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". You will be able to apply your learning, knowledge and skills in your contexts as part of the assessment process and have the opportunity to complete either a research project or an industry experience studio project. Read Less about Overview Mode and location Collapse all On campus keyboard_arrow_down Malaysia, Clayton Learning outcomes These course outcomes are aligned with the Australian Qualifications Framework and Monash Graduate Attributes",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 3,
+      "total_chunks": 24,
+      "char_count": 451,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". Upon successful completion of this course it is expected that you will be able to: Collapse all 1. analyse the lifecycle of an AI and machine learning system in relation to data and computing resources through an organisation. keyboard_arrow_down 2. apply the major theories and innovation in the field of artificial intelligence, machine learning and data analysis to selected characteristic problems with an emphasis on social good. keyboard_arrow_down 3",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 4,
+      "total_chunks": 24,
+      "char_count": 458,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". keyboard_arrow_down 3. plan an AI-based project on a new application area demonstrating knowledge of the lifecycle of AI systems and their requirements. keyboard_arrow_down 4. investigate, analyse, document and communicate the core issues and requirements in developing AI capability in a global organisation. keyboard_arrow_down 5. demonstrate applications of AI to a level of depth and sophistication consistent with senior professional practice. keyboard_arrow_down 6",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 5,
+      "total_chunks": 24,
+      "char_count": 472,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". keyboard_arrow_down 6. review, manage and evaluate AI-based projects and complete projects through teamwork. keyboard_arrow_down 7. review, synthesise, apply and evaluate contemporary Artificial Intelligence theories. keyboard_arrow_down 8. document ethics in AI and communicate ethical and legal issues and norms in privacy and security, and other areas of community impact with regards to the practice of applying and developing artificial intelligence",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 6,
+      "total_chunks": 24,
+      "char_count": 456,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". keyboard_arrow_down Professional recognition This course is provisionally accredited by the Australian Computer Society (ACS) as meeting the standard of knowledge for professional-level membership. The Faculty is in the process of obtaining full accreditation. Structure The course comprises 96 credit points structured into three parts: Part A. Foundation studies, Part B. Core studies, and Part C. Applied studies. Part A",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 7,
+      "total_chunks": 24,
+      "char_count": 425,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". Foundation studies, Part B. Core studies, and Part C. Applied studies. Part A. Foundation studies These studies will provide an orientation to the field of artificial intelligence at graduate level. They are intended for students whose previous qualification is not in a cognate field. Part B. Core studies These studies will provide an orientation and draw on best practices within the broad field of artificial intelligence practice and research",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 8,
+      "total_chunks": 24,
+      "char_count": 449,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". You will gain a critical understanding of theoretical and practical issues related to artificial intelligence. Your studies will focus on fundamentals, core knowledge as well as application in artificial intelligence. Part C. Applied studies The focus of these studies is professional or scholarly work that can contribute to the portfolio of professional development in AI. You will have two options: • A program of coursework involving advanced study and an industry experience studio project",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 9,
+      "total_chunks": 24,
+      "char_count": 496,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". • A research pathway including a thesis. If you wish to use this master’s course as a pathway to a higher degree by research you should take this option. Master's entry points Depending on prior qualifications you may receive entry level credit which determines your point of entry to the course: • If you are admitted at entry level 1 you complete 96 credit points, comprising Part A, Part B and Part C",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 10,
+      "total_chunks": 24,
+      "char_count": 405,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". • If you are admitted at entry level 2 you complete 72 credit points, comprising Part B and Part C. Note: If you are eligible for credit for prior studies you may elect not to receive the credit and complete one of the higher credit-point options. Course progression map The course progression map (Clayton) and(Malaysia)provides guidance on unit enrolment for each semester of study. Requirements 96 credit points Collapse all Part A",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 11,
+      "total_chunks": 24,
+      "char_count": 436,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". Requirements 96 credit points Collapse all Part A. Foundation studies24 credit points keyboard_arrow_down You must complete the following four units FIT9132 6 CP Introduction to databases FIT9136 6 CP Introduction to Python programming FIT9137 6 CP Introduction to computer architecture and networks MAT9004 6 CP Mathematical foundations for data science and AI Part B",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 12,
+      "total_chunks": 24,
+      "char_count": 370,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". Core studies48 credit points keyboard_arrow_down You must complete 48 credit points, comprising: - the following seven units (42 credit points); and - one further unit (6 credit points) from Specified elective studies",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 13,
+      "total_chunks": 24,
+      "char_count": 219,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". FIT5047 6 CP Fundamentals of artificial intelligence FIT5057 6 CP Project management FIT5125 6 CP IT research and innovation methods FIT5201 6 CP Machine learning FIT5215 6 CP Deep learning FIT5222 6 CP Planning and automated reasoning FIT5226 6 CP Multi agent systems and collective behaviour Specified elective studies6 credit points keyboard_arrow_down You must complete one of the following units (6 credit points) FIT5216 6 CP Modelling discrete optimisation problems FIT5217 6 CP Natural",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 14,
+      "total_chunks": 24,
+      "char_count": 495,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": "units (6 credit points) FIT5216 6 CP Modelling discrete optimisation problems FIT5217 6 CP Natural language processing FIT5221 6 CP Intelligent image and video analysis FIT5230 6 CP Malicious AI Part C",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 15,
+      "total_chunks": 24,
+      "char_count": 201,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". Applied studies24 credit points keyboard_arrow_down You must complete either the Industry experience pathway or Research pathway. Industry experience pathway24 credit points keyboard_arrow_down You must complete the following units (18 credit points) plus one FIT-coded Level 5 unit (6 credit points). You must have the required prerequisites for the unit you choose",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 16,
+      "total_chunks": 24,
+      "char_count": 368,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". You must have the required prerequisites for the unit you choose. FIT5120 12 CP Industry experience studio project FIT5122 6 CP Professional practice Research pathway24 credit points keyboard_arrow_down You must complete the following units. Note 1: Enrolment in the research units is dependent on available supervisors and projects. Eligible students will be ranked based on their entire academic record and assessed for suitability to undertake the research component of this program",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 17,
+      "total_chunks": 24,
+      "char_count": 487,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". Note 2: To be eligible for the research pathway: You must have successfully completed at least 24 credit points of level 5 FIT-coded units; and have an overall average of at least 80% across all Level 5 units; and must have have achieved at least a distinction (75%) in FIT5125 IT research methods; and achieved an overall course WAM of 70%",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 18,
+      "total_chunks": 24,
+      "char_count": 342,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". If you have a WAM between 75-79% across all Level 5 units you must have successfully completed at least 24 credit points of level 5 FIT-coded units; and demonstrated research capability with written support from a prospective supervisor; and must have achieved at least a distinction (75%) in FIT5125 IT research methods; and achieved an overall course WAM of 70%",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 19,
+      "total_chunks": 24,
+      "char_count": 365,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". FIT5126 6 CP Masters thesis part 1 FIT5127 6 CP Masters thesis part 2 FIT5128 6 CP Masters thesis final FIT5122 6 CP Professional practice Alternative exit(s) You may exit this course early and apply to graduate with one of the following awards, provided you have satisfied the requirements indicated for that award during your enrolment in this master's course: • Graduate Certificate of Artificial Intelligence (C4008) after successful completion of 24 credit points of study including FIT5047",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 20,
+      "total_chunks": 24,
+      "char_count": 497,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": "Intelligence (C4008) after successful completion of 24 credit points of study including FIT5047 Fundamentals of artificial intelligence, and three units (18 credit points) from Part A or Part B with a maximum of 6 credit points from Part A",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 21,
+      "total_chunks": 24,
+      "char_count": 239,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". • Graduate Diploma of Artificial Intelligence (C5007) after successful completion of 48 credit points of study including all core studies units in Part B and one unit (6 credit points) from Part A or Part B Specified elective studies. Progression to further studies Successful completion of this course may provide a pathway to a graduate research degree",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 22,
+      "total_chunks": 24,
+      "char_count": 356,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": ". Progression will be conditional on you completing the minor research pathway (as described in Part C, Research pathway) and achieving the minimum entry requirements for either Master of Philosophy (3337) or the Doctor of Philosophy (0190).",
+    "metadata": {
+      "source": "AI.pdf",
+      "chunk_index": 23,
+      "total_chunks": 24,
+      "char_count": 241,
+      "source_char_count": 8871
+    }
+  },
+  {
+    "text": "Overview The Master of Cybersecurity is a postgraduate degree that provides you with the skills to manage and administer cybersecurity and blockchain and prepares you for careers as security systems analysts, systems designers, data communications specialists or security software engineers or administrators",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 0,
+      "total_chunks": 23,
+      "char_count": 308,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". The Master of Cybersecurity is a postgraduate degree that provides you with the skills to manage and administer cybersecurity and blockchain and prepares you for careers as security systems analysts, systems designers, data communications specialists or security software engineers or administrators. Notes You can enrich your degree by honing your academic and professional skills through the Monash Innovation Guarantee (MIG)",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 1,
+      "total_chunks": 23,
+      "char_count": 429,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". The MIG is your unique opportunity to collaborate with renowned industry leaders and design innovative solutions that result in real social change. MIG will give you the leadership skills you will need to adapt and thrive in a rapidly changing world and is your chance to make connections before you graduate. The MIG unit may be credited in place of a free elective as a 6 credit point unit option. For information on eligibility please see FREE",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 2,
+      "total_chunks": 23,
+      "char_count": 448,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". For information on eligibility please see FREE. Mode and location Collapse all On campus keyboard_arrow_down Clayton Learning outcomes These course outcomes are aligned with the Australian Qualifications Framework and Monash Graduate Attributes. Upon successful completion of this course it is expected that you will be able to: Collapse all 1. critically assess existing systems using the theories, techniques, and software tools that are available in the field of cybersecurity",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 3,
+      "total_chunks": 23,
+      "char_count": 481,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". keyboard_arrow_down 2. adapt new and emerging technologies in application development based on an understanding of the underpinning principles of cybersecurity. keyboard_arrow_down 3. analyse and document the core issues in building secure systems, evaluate the strengths, weaknesses and propose and articulate solutions effectively. keyboard_arrow_down 4. competently design secure systems at project and team levels. keyboard_arrow_down 5",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 4,
+      "total_chunks": 23,
+      "char_count": 442,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". competently design secure systems at project and team levels. keyboard_arrow_down 5. review, synthesise, apply and evaluate existing systems and extend them with new technologies through either a significant research thesis component or research-grounded industrial project. keyboard_arrow_down 6. analyse issues and solutions in security and system design as they affect general and particular communities. keyboard_arrow_down 7",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 5,
+      "total_chunks": 23,
+      "char_count": 431,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". keyboard_arrow_down 7. evaluate the implication of ethical issues and norms in privacy and security. keyboard_arrow_down Professional recognition This course is accredited by the Australian Computer Society (ACS) as meeting the standard of knowledge for professional-level membership. Structure The course is structured in three parts: Part A. Foundation studies, Part B. Core studies, and Part C. Applied studies. Part A",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 6,
+      "total_chunks": 23,
+      "char_count": 423,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". Foundation studies, Part B. Core studies, and Part C. Applied studies. Part A. Foundation studies These studies will provide an orientation to the field of cybersecurity at graduate level. They are intended for students whose previous qualification is not in a cognate field. Part B. Core studies These studies draw on best practices within the broad realm of IT security theory and practice. You will gain an understanding of cybersecurity, blockchain and IT project management principles",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 7,
+      "total_chunks": 23,
+      "char_count": 491,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". You will gain an understanding of cybersecurity, blockchain and IT project management principles. Your study will focus on your choice of units within cybersecurity. Part C. Applied studies The focus of these studies is professional or scholarly work that can contribute to a portfolio of professional development. You have two options: • a program of coursework involving advanced study and an industry experience studio project. • a research pathway including a thesis",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 8,
+      "total_chunks": 23,
+      "char_count": 472,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". • a research pathway including a thesis. If you wish to use this master's course as a pathway to a higher degree by research you should take this option. Master's entry points Depending on prior qualifications you may receive entry level credit which determines your point of entry to the course: • If you are admitted at entry level 1 you complete 96 credit points, comprising Part A, Part B and Part C",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 9,
+      "total_chunks": 23,
+      "char_count": 405,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". • If you are admitted at entry level 2 you complete 72 credit points, comprising Part B and Part C. Note: If you are eligible for credit for prior studies you may elect not to receive the credit and complete the higher credit-point option. Course progression map The course progression map provides guidance on unit enrolment for each semester of study. Requirements 96 credit points Collapse all Part A",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 10,
+      "total_chunks": 23,
+      "char_count": 405,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". Requirements 96 credit points Collapse all Part A. Foundation studies24 credit points keyboard_arrow_down You must complete the following units FIT9132 6 CP Introduction to databases FIT9136 6 CP Introduction to Python programming FIT9137 6 CP Introduction to computer architecture and networks FIT9138 6 CP Information systems analysis, design and systems thinking Part B",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 11,
+      "total_chunks": 23,
+      "char_count": 374,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". Core studies48 credit points keyboard_arrow_down You must complete 48 credit points, comprising: - the following six units (36 credit points); and - two units (12 credit points) of Specified elective studies",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 12,
+      "total_chunks": 23,
+      "char_count": 209,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". FIT5003 6 CP Software security FIT5037 6 CP Network security FIT5057 6 CP Project management FIT5125 6 CP IT research and innovation methods FIT5129 6 CP Cyber operations FIT5163 6 CP Introduction to cryptography for cybersecurity Specified elective studies12 credit points keyboard_arrow_down You must complete one of the following units (6 credit points) plus one Level 5 elective unit (6 credit points) from the faculty or across the university",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 13,
+      "total_chunks": 23,
+      "char_count": 449,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". You must have the required prerequisites for the unit you choose. FIT5124 6 CP Emerging topics for cybersecurity in practice FIT5223 6 CP IT forensics FIT5225 6 CP Cloud computing and security Part C. Applied studies24 credit points keyboard_arrow_down You must complete either the Industry experience pathway or Research pathway",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 14,
+      "total_chunks": 23,
+      "char_count": 331,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". Industry experience pathway24 credit points keyboard_arrow_down You must complete the following units (18 credit points) plus one FIT-coded Level 5 unit (6 credit points). You must have the required prerequisites for the unit you choose. FIT5120 12 CP Industry experience studio project FIT5122 6 CP Professional practice Research pathway24 credit points keyboard_arrow_down You must complete the following units",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 15,
+      "total_chunks": 23,
+      "char_count": 414,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". Note 1: Enrolment in the research units is dependent on available supervisors and projects. Eligible students will be ranked based on their entire academic record and assessed for suitability to undertake the research component of this program",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 16,
+      "total_chunks": 23,
+      "char_count": 245,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". Note 2: To be eligible for the research pathway: You must have successfully completed at least 24 credit points of level 5 FIT-coded units; and have an overall average of at least 80% across all Level 5 units; and must have have achieved at least a distinction (75%) in FIT5125 IT research methods; and achieved an overall course WAM of 70%",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 17,
+      "total_chunks": 23,
+      "char_count": 342,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". If you have a WAM between 75-79% across all Level 5 units you must have successfully completed at least 24 credit points of level 5 FIT-coded units; and demonstrated research capability with written support from a prospective supervisor; and must have achieved at least a distinction (75%) in FIT5125 IT research methods; and achieved an overall course WAM of 70%",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 18,
+      "total_chunks": 23,
+      "char_count": 365,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". FIT5126 6 CP Masters thesis part 1 FIT5127 6 CP Masters thesis part 2 FIT5128 6 CP Masters thesis final FIT5122 6 CP Professional practice Alternative exit(s) You may exit this course early and apply to graduate with one of the following awards, provided you have satisfied the requirements for that award during your enrolment in this master's course: • Graduate Certificate of Cybersecurity (C4001) after successful completion of 24 credit points of study, comprising FIT5057 Project management,",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 19,
+      "total_chunks": 23,
+      "char_count": 499,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": "after successful completion of 24 credit points of study, comprising FIT5057 Project management, FIT5163 Introduction to cryptography for cybersecurity, FIT5003 Software security and one of the listed specified FIT units (6 credit points) from Part A or Part B",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 20,
+      "total_chunks": 23,
+      "char_count": 260,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". • Graduate Diploma of Cybersecurity (C5001) after successful completion of 48 credit points of study, comprising all core studies units in Part B and two units (12 credit points) from Part A or Part B (specified elective studies) with a maximum of 12 credit points from Part A. Progression to further studies Successful completion of this course may provide a pathway to a graduate research degree",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 21,
+      "total_chunks": 23,
+      "char_count": 399,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": ". Progression will be conditional on you completing the minor thesis research pathway (as described in Part C, Research Pathway) and achieving the minimum entry requirements for either the Master of Philosophy (3337) or the Doctor of Philosophy (0190).",
+    "metadata": {
+      "source": "Cyber.pdf",
+      "chunk_index": 22,
+      "total_chunks": 23,
+      "char_count": 252,
+      "source_char_count": 8353
+    }
+  },
+  {
+    "text": "Overview The Master of Data Science prepares you for a career in data science giving you the skills needed to deal effectively within the areas of data analysis, data engineering and big data processing. The course covers topics in both theoretical and practical perspectives, which include statistical machine learning, exploratory analysis,… For more content click the Read More button below",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 0,
+      "total_chunks": 24,
+      "char_count": 393,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". The Master of Data Science prepares you for a career in data science giving you the skills needed to deal effectively within the areas of data analysis, data engineering and big data processing. The course covers topics in both theoretical and practical perspectives, which include statistical machine learning, exploratory analysis, data formats and types, processing of structured and semi-structured data sets, and their role and impact in an organisation and society",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 1,
+      "total_chunks": 24,
+      "char_count": 472,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". You will be able to apply your learning, knowledge and skills as part of the assessment process and have the opportunity to complete either a research project or an industry experience studio project in a team. Read Less about Overview Mode and location Expand all On campus keyboard_arrow_down Learning outcomes These course outcomes are aligned with the Australian Qualifications Framework and Monash Graduate Attributes",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 2,
+      "total_chunks": 24,
+      "char_count": 424,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". Upon successful completion of this course it is expected that you will be able to: Collapse all 1. analyse the lifecycle of data through an organisation keyboard_arrow_down 2. apply the major theories in the field of data analysis and data exploration to some characteristic problems keyboard_arrow_down 3. plan, manage and execute a data science project individually and collaboratively on a new application area using knowledge of the data lifecycle and analysis process keyboard_arrow_down 4",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 3,
+      "total_chunks": 24,
+      "char_count": 496,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". investigate, analyse, document and communicate the core issues and requirements in developing data analysis capability in a global organisation keyboard_arrow_down 5. demonstrate an understanding of data science to a level of depth and sophistication consistent with senior professional practice keyboard_arrow_down 6",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 4,
+      "total_chunks": 24,
+      "char_count": 319,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". review, synthesise, apply and evaluate contemporary data science theories through independent research and a research thesis, or by utilising research methods for scholarly or professional purposes. keyboard_arrow_down 7. document and communicate ethical and legal issues and norms in privacy and security, and other areas of community impact with regards to the practice of data science",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 5,
+      "total_chunks": 24,
+      "char_count": 389,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". keyboard_arrow_down Professional recognition This course is provisionally accredited by the Australian Computer Society (ACS) as meeting the standard of knowledge for professional-level membership. The Faculty is in the process of obtaining full accreditation. Structure The course comprises 96 credit points structured into three parts: Part A. Foundation studies, Part B. Core studies and Part C. Applied studies. Part A",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 6,
+      "total_chunks": 24,
+      "char_count": 424,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". Foundation studies, Part B. Core studies and Part C. Applied studies. Part A. Foundation studies These studies will provide an orientation to the field of data science at graduate level. They are intended for students whose previous qualification is not in a cognate field. Part B. Core studies These studies draw on best practices within the broad realm of data science practice and research. You will gain a critical understanding of theoretical and practical issues relating to data science",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 7,
+      "total_chunks": 24,
+      "char_count": 495,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". Part C. Applied studies The focus of these studies is professional or scholarly work that can contribute to a portfolio of professional development. You have two options: • a program of coursework involving advanced study and an industry experience studio project. • a research pathway including a thesis. If you wish to use this master's course as a pathway to a higher degree by research you should take this first option",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 8,
+      "total_chunks": 24,
+      "char_count": 425,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". Master's entry points Depending on prior qualifications you may receive entry level credit which determines your point of entry to the course: • If you are admitted at entry level 1 you complete 96 credit points, comprising Part A, Part B and Part C. • If you are admitted at entry level 2 you complete 72 credit points, comprising Part B and Part C. Note: If you are eligible for credit for prior studies you may elect not to receive the credit and complete one of the higher credit-point options",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 9,
+      "total_chunks": 24,
+      "char_count": 499,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". Course progression map The course progression map (Clayton) (Malaysia) provides guidance on unit enrolment for each semester of study. Requirements 96 credit points Collapse all Part A. Foundation studies24 credit points keyboard_arrow_down You must complete the following units",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 10,
+      "total_chunks": 24,
+      "char_count": 280,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". Foundation studies24 credit points keyboard_arrow_down You must complete the following units. FIT9132 6 CP Introduction to databases FIT9136 6 CP Introduction to Python programming FIT9137 6 CP Introduction to computer architecture and networks MAT9004 6 CP Mathematical foundations for data science and AI Part B",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 11,
+      "total_chunks": 24,
+      "char_count": 315,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". Core studies48 credit points keyboard_arrow_down You must complete 48 credit points, comprising: - the following seven units (42 credit points); and - one unit (6 credit points) from the Specified elective studies list",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 12,
+      "total_chunks": 24,
+      "char_count": 220,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". FIT5057 6 CP Project management FIT5125 6 CP IT research and innovation methods FIT5145 6 CP Foundations of data science FIT5147 6 CP Data exploration and visualisation FIT5196 6 CP Data wrangling FIT5197 6 CP Statistical data modelling FIT5202 6 CP Data processing for big data Specified elective studies6 credit points keyboard_arrow_down You must complete one of the following units (6 credit points)",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 13,
+      "total_chunks": 24,
+      "char_count": 405,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". FIT5149 6 CP Applied data analysis FIT5201 6 CP Machine learning FIT5212 6 CP Data analysis for semi-structured data FIT5230 6 CP Malicious AI BMS5021 6 CP Introduction to Bioinformatics Part C. Applied studies24 credit points keyboard_arrow_down You must complete either the Industry experience pathway or Research pathway. Industry experience pathway24 credit points keyboard_arrow_down You must complete the following units (18 credit points) plus one Level 5 unit (6 credit points)",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 14,
+      "total_chunks": 24,
+      "char_count": 487,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". You must have the required prerequisites for the unit you choose. FIT5120 12 CP Industry experience studio project FIT5122 6 CP Professional practice OR Research pathway24 credit points keyboard_arrow_down You must complete the following units. Note 1: Enrolment in the research units is dependent on available supervisors and projects. Eligible students will be ranked based on their entire academic record and assessed for suitability to undertake the research component of this program",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 15,
+      "total_chunks": 24,
+      "char_count": 490,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". Note 2: To be eligible for the research pathway - You must have successfully completed at least 24 credit points of level 5 FIT-coded units; and have an overall average of at least 80% across all Level 5 units; and must have achieved at least a distinction (75%) in FIT5125 IT research methods; and achieved an overall course WAM of 70%",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 16,
+      "total_chunks": 24,
+      "char_count": 338,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". If you have a WAM between 75-79% across all Level 5 units you must have successfully completed at least 24 credit points of level 5 FIT-coded units; and demonstrated research capability with written support from a prospective supervisor; and must have achieved at least a distinction (75%) in FIT5125 IT research methods; and achieved an overall course WAM of 70%",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 17,
+      "total_chunks": 24,
+      "char_count": 365,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". Note 3: For research projects in Bioinformatics - You must have successfully completed at least 24 credit points of level 5 coded units; and have an overall average of at least 80% across all Level 5 units; and must have achieved at least a distinction (75%) in FIT5125 IT research methods and BMS5021 Introduction to bioinformatics; and achieved an overall course WAM of 70%",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 18,
+      "total_chunks": 24,
+      "char_count": 377,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". If you have a WAM between 75-79% across all Level 5 units you must have successfully completed at least 24 credit points of level 5 coded units; and demonstrated research capability with written support from a prospective supervisor; and must have have achieved at least a distinction (75%) in FIT5125 IT research methods and BMS5021 Introduction to bioinformatics; and achieved an overall course WAM of 70%",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 19,
+      "total_chunks": 24,
+      "char_count": 409,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". FIT5126 6 CP Masters thesis part 1 FIT5127 6 CP Masters thesis part 2 FIT5128 6 CP Masters thesis final FIT5122 6 CP Professional practice Alternative exit(s) You may exit this course early and apply to graduate with one of the following awards, provided you have satisfied the requirements for that award during your enrolment in this master's course: • Graduate Certificate of Data Science (C4004) after successful completion of 24 credit points of study, including FIT5145 Introduction to data",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 20,
+      "total_chunks": 24,
+      "char_count": 498,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": "after successful completion of 24 credit points of study, including FIT5145 Introduction to data science, FIT5196 Data wrangling and FIT5197 Statistical data modelling and one unit (6 credit points) from Part A or Part B",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 21,
+      "total_chunks": 24,
+      "char_count": 220,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". • Graduate Diploma of Data Science (C5009) after successful completion of 48 credit points of study comprising all core studies units in Part B and one unit (6 credit points) from Part A or Part B (specified elective studies). Progression to further studies Successful completion of this course may provide a pathway to a graduate research degree",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 22,
+      "total_chunks": 24,
+      "char_count": 348,
+      "source_char_count": 9102
+    }
+  },
+  {
+    "text": ". Progression to a graduate research degree will be conditional on you completing the minor thesis research pathway (as described in Part C, Research Pathway) and achieving the minimum entry requirements for either the Master of Philosophy (3337) or the Doctor of Philosophy (0190).",
+    "metadata": {
+      "source": "DataScience.pdf",
+      "chunk_index": 23,
+      "total_chunks": 24,
+      "char_count": 282,
+      "source_char_count": 9102
+    }
+  },
+  {
     "text": "Frequently Asked Questions (FAQ) Q1. How do I start the registration process? You can start the registration process by visiting the registration portal and clicking on Create New Account . Q2. What documents are required for registration? You need a valid photo ID, proof of address, and visa documents if you are an international applicant. Q3. How long does registration take? Standard registration takes 2–3 business days. International registrations may take up to 5 business days. Q4",
     "metadata": {
       "source": "faq.pdf",
@@ -27,6 +1507,236 @@
       "total_chunks": 3,
       "char_count": 262,
       "source_char_count": 1059
+    }
+  },
+  {
+    "text": "Overview The Master of Information Technology prepares you for work in the information technology industry at the highest levels. It provides you with the knowledge, understanding and skills to enable you to deal effectively with advanced issues involving the application of information technology in various domains. The Master of Information Technology prepares you for work in the information technology industry at the highest levels",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 0,
+      "total_chunks": 23,
+      "char_count": 437,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". It provides you with the knowledge, understanding and skills to enable you to deal effectively with advanced issues involving the application of information technology in various domains. Notes You can enrich your degree by honing your academic and professional skills through the Monash Innovation Guarantee (MIG). The MIG is your unique opportunity to collaborate with renowned industry leaders and design innovative solutions that result in real social change",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 1,
+      "total_chunks": 23,
+      "char_count": 464,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". MIG will give you the leadership skills you will need to adapt and thrive in a rapidly changing world and is your chance to make connections before you graduate. The MIG unit may be credited in place of a free elective as a 6 credit point unit option. For information on eligibility please see FREE. Mode and location Collapse all On campus keyboard_arrow_down Clayton Learning outcomes These course outcomes are aligned with the Australian Qualifications Framework and Monash Graduate Attributes",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 2,
+      "total_chunks": 23,
+      "char_count": 498,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". Upon successful completion of this course it is expected that you will be able to: Collapse all 1. apply problem solving skills and sound theoretical knowledge to the design and construction of innovative solutions based on Information Technology; keyboard_arrow_down 2. analyse, critically review and synthesise theories and techniques from the field of Information Technology; keyboard_arrow_down 3",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 3,
+      "total_chunks": 23,
+      "char_count": 402,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". apply, extend and generalise advanced techniques to solve complex problems and adapt to future changes in the field of Information Technology; keyboard_arrow_down 4. evaluate, with scientific rigour, the application and extension of theories and techniques from the field of Information Technology; keyboard_arrow_down 5. assess and apply industry standard tools and techniques for building complex software systems; keyboard_arrow_down 6",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 4,
+      "total_chunks": 23,
+      "char_count": 440,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". demonstrate professional skills including the ability to work productively in groups and develop successful projects, and communicate effectively with stakeholders within and outside the field of Information Technology; keyboard_arrow_down 7. critically evaluate, document and communicate ethical, legal and social issues affecting the use of Information Technology. keyboard_arrow_down 8",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 5,
+      "total_chunks": 23,
+      "char_count": 390,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". keyboard_arrow_down 8. investigate Information Technology problems through independent research and a research thesis, or by utilising research methods for scholarly or professional purposes. keyboard_arrow_down Professional recognition This course is accredited by the Australian Computer Society (ACS) as meeting the standard of knowledge for professional-level membership. Structure The course is structured in three parts: Part A. Foundation studies, Part B. Core studies, and Part C",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 6,
+      "total_chunks": 23,
+      "char_count": 489,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". Foundation studies, Part B. Core studies, and Part C. Applied studies. Part A. Foundation studies These studies will provide an orientation to the field of information technology at graduate level. They are intended for students whose previous qualification is not in a cognate field. Part B. Core studies These studies draw on best practices within the broad realm of IT application, theory and practice. You will gain an understanding of real world IT problems and gain problem solving skills",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 7,
+      "total_chunks": 23,
+      "char_count": 496,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". You will gain an understanding of real world IT problems and gain problem solving skills. Your study will focus on IT project management, software, network and systems areas. Part C. Applied studies The focus of these studies is professional or scholarly work that can contribute to a portfolio of professional development. You have two options: • a program of coursework involving advanced study and an industry experience studio project. • a research pathway including a thesis",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 8,
+      "total_chunks": 23,
+      "char_count": 481,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". • a research pathway including a thesis. If you wish to use this master's course as a pathway to a higher degree by research you should take this option. Master's entry point Depending on prior qualifications you may receive entry level credit which determines your point of entry to the course: • If you are admitted at entry level 1 you complete 96 credit points, comprising Part A, Part B and Part C",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 9,
+      "total_chunks": 23,
+      "char_count": 404,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". • If you are admitted at entry level 2 you complete 72 credit points, comprising Part B and Part C. Note: If you are eligible for credit for prior studies you may elect not to receive the credit and complete the higher credit-point option. Course progression map The course progression map provides guidance on unit enrolment for each semester of study. Requirements 96 credit points Collapse all Part A",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 10,
+      "total_chunks": 23,
+      "char_count": 405,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". Requirements 96 credit points Collapse all Part A. Foundation studies24 credit points keyboard_arrow_down You must complete the following units FIT9131 6 CP Programming foundations in Java FIT9132 6 CP Introduction to databases FIT9136 6 CP Introduction to Python programming FIT9137 6 CP Introduction to computer architecture and networks Part B",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 11,
+      "total_chunks": 23,
+      "char_count": 348,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". Core studies48 credit points keyboard_arrow_down You must complete the following units (36 credit points): FIT5032 6 CP Internet applications development FIT5046 6 CP Mobile and distributed computing systems FIT5057 6 CP Project management FIT5125 6 CP IT research and innovation methods FIT5136 6 CP Software engineering FIT5137 6 CP Advanced database technology Specified elective studies12 credit points keyboard_arrow_down You must complete one of the following units (6 credit points) and one",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 12,
+      "total_chunks": 23,
+      "char_count": 499,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": "points keyboard_arrow_down You must complete one of the following units (6 credit points) and one level 5 elective unit (6 credit points) from the faculty or across the university",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 13,
+      "total_chunks": 23,
+      "char_count": 179,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". You must have the required prerequisites for the unit you choose. Note: Some units may have restrictions on enrolments. FIT5152 6 CP User interface design and usability FIT5171 6 CP System validation and verification, quality and standards FIT5225 6 CP Cloud computing and security Part C",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 14,
+      "total_chunks": 23,
+      "char_count": 290,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". Applied studies24 credit points keyboard_arrow_down You must complete either the Industry experience pathway or the Research option pathway Industry experience pathway24 credit points keyboard_arrow_down You must complete the following units (18 credit points) plus one FIT-coded Level 5 unit (6 credit points). You must have the required prerequisites for the unit you choose",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 15,
+      "total_chunks": 23,
+      "char_count": 378,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". You must have the required prerequisites for the unit you choose. FIT5120 12 CP Industry experience studio project FIT5122 6 CP Professional practice Research pathway24 credit points keyboard_arrow_down You must complete the following units. Note 1: Enrolment in the research units is dependent on available supervisors and projects. Eligible students will be ranked based on their entire academic record and assessed for suitability to undertake the research component of this program",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 16,
+      "total_chunks": 23,
+      "char_count": 487,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". Note 2: To be eligible for the research pathway: You must have successfully completed at least 24 credit points of level 5 FIT-coded units; and have an overall average of at least 80% across all Level 5 units; and must have have achieved at least a distinction (75%) in FIT5125 IT research methods; and achieved an overall course WAM of 70%",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 17,
+      "total_chunks": 23,
+      "char_count": 342,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". If you have a WAM between 75-79% across all Level 5 units you must have successfully completed at least 24 credit points of level 5 FIT-coded units; and demonstrated research capability with written support from a prospective supervisor; and must have achieved at least a distinction (75%) in FIT5125 IT research methods; and have achieved an overall course WAM of 70%",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 18,
+      "total_chunks": 23,
+      "char_count": 370,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". FIT5126 6 CP Masters thesis part 1 FIT5127 6 CP Masters thesis part 2 FIT5128 6 CP Masters thesis final FIT5122 6 CP Professional practice Alternative exit(s) You may exit this course early and apply to graduate with one of the following awards, provided you have satisfied the requirements indicated for that award during your enrolment in this master's course: • Graduate Certificate of Information Technology (C4003) after successful completion of 24 credit points of study including FIT5136",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 19,
+      "total_chunks": 23,
+      "char_count": 496,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": "Technology (C4003) after successful completion of 24 credit points of study including FIT5136 Software engineering and FIT5057 Project management and two units (12 credit points) from Part A or Part B (excluding specified elective units) with no more than 6 credit points from Part A",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 20,
+      "total_chunks": 23,
+      "char_count": 283,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". • Graduate Diploma of Information Technology (C5002) after successful completion of 48 credit points of study comprising all core studies units in Part B and two units (12 credit points) from Part A, or Part B (specified elective studies) with a maximum of 12 credit points from Part A. Progression to further studies Successful completion of this course may provide a pathway to a graduate research degree",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 21,
+      "total_chunks": 23,
+      "char_count": 408,
+      "source_char_count": 8715
+    }
+  },
+  {
+    "text": ". Progression will be conditional on you completing the minor thesis research pathway (as described in Part C, Research Pathway) and achieving the minimum entry requirements for either Master of Philosophy (3337) or Doctor of Philosophy (0190).",
+    "metadata": {
+      "source": "IT.pdf",
+      "chunk_index": 22,
+      "total_chunks": 23,
+      "char_count": 244,
+      "source_char_count": 8715
     }
   },
   {
