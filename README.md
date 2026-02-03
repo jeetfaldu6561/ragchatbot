@@ -1,4 +1,4 @@
-# Registration Support RAG Chatbot
+# UniQuery AI
 
 A production-ready Retrieval-Augmented Generation (RAG) chatbot system for answering questions about university registration, course selection, and academic FAQs. This system combines state-of-the-art semantic search, hybrid retrieval, and LLM generation to provide accurate, context-aware responses.
 
